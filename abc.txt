@@ -1,1 +1,2 @@
 hello world from master
+Also hello world from feature/B2

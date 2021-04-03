@@ -1,4 +1,6 @@
 hello world from master
 abc bcd efg Also hello world from feature/B1 and feature/B2
+My name is manish Kr.
+I am doing testing........
 
 

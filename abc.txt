@@ -1,2 +1,4 @@
 hello world from master
-abc bcd efg Also hello world from feature/B2
+abc bcd efg Also hello world from feature/B1 and feature/B2
+
+
